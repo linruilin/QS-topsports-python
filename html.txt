@@ -1,0 +1,45 @@
+http://hn.topsports.com.cn/phone/
+
+登记信息
+http://hn.topsports.com.cn/phone/dj_qh_xin.html
+
+取号
+http://hn.topsports.com.cn/phone/qh_xin.html
+http://hn.topsports.com.cn/asdf123zxc/phone/qh_xin.html?area_code=HN
+
+获取品牌
+http://hn.topsports.com.cn/phone/DataSour.aspx?ID=10
+http://hn.topsports.com.cn/asdf123zxc/phone/data/DataSour.aspx?ID=10&addCode=dg
+Jordan
+
+获取主题
+http://hn.topsports.com.cn/phone/DataSour.aspx?ID=2&brandName=Jordan
+Air Jordan 1 Retro High OG “Gym Red”‘102019072001
+^Air Jordan 1 Retro High OG “Gym Red” GS‘102019072002
+^Air Jordan 1 Retro High OG "Crimson Tint" GS‘102019072003
+
+获取店铺
+http://hn.topsports.com.cn/phone/DataSour.aspx?ID=5&zhuti_id=102019072001
+深圳罗湖宝安南路华润万象城BEC‘NKSZUO
+
+获取尺码
+http://hn.topsports.com.cn/phone/DataSour.aspx?ID=6&zhuti_id=102019072001&shop_id=NKSZUO
+3.5Y^4Y^4.5Y^5Y^5.5Y^6Y^7Y
+
+
+抽签
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019080701&shop_id=NKSZBN&man_id=440881199004174359&size=8&brandName=NK
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019081702&shop_id=NKSZ94&man_id=445281199011184017&size=6&brandName=NK
+
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019081702&shop_id=NKSZ49&man_id=445281199011184017&size=8&brandName=NK
+
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019081702&shop_id=NKSZUO&man_id=441202198709229150&size=8&brandName=NK
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019081702&shop_id=NKSZBT&man_id=445322199807199522&size=8&brandName=NK
+
+
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019081702&shop_id=NKSZUO&man_id=441202198709229150&size=8&brandName=NK
+http://hn.topsports.com.cn/asdf123zxc/phone/DataSour.aspx?ID=8&zhuti=102019081702&shop_id=NKSZUO&man_id=441202198709229150&size=8&brandName=NK
+
+8-009
+
+2019-08-07^Air Jordan 3 Tinker “Black Cement”^深圳罗湖金光华广场乔丹JD^深圳罗湖金光华广场乔丹JD^8^009^11:00^

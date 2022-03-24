@@ -1,0 +1,8 @@
+/env
+/log
+/data
+
+# edit
+.vscode
+.DS_Store
+*.pyc
